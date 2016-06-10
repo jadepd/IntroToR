@@ -1,7 +1,7 @@
 # IntroToR
-Lecture Code for Introduction to R Programming
+R Codes for Introduction to R Programming lectures
 
-Feel free to download, manipulate, and redistribute this code.
+Feel free to download, play with, and redistribute these file.
 
 I would be very happy if people can learn R with the help of my code.
 
